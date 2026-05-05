@@ -11,7 +11,7 @@ They are stored in one submission repository for presentation purposes, but this
 
 ## Telegram Bot
 
-Path: [src/telegram_bot/src/app](/C:/Users/Welcome/Documents/nutri-coach-nova-main/src/telegram_bot/src/app)
+Path: [src/telegram_bot/src/app](src/telegram_bot/src/app)
 
 Main responsibilities:
 
