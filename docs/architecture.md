@@ -32,7 +32,7 @@ Important files:
 
 ## Web Interface Prototype
 
-Path: [src/web_prototype](/C:/Users/Welcome/Documents/nutri-coach-nova-main/src/web_prototype)
+Path: [src/web_prototype](src/web_prototype)
 
 This part is a UI prototype created with Lovable and related frontend tooling. It demonstrates a possible future web experience and should not be presented as the main working deployment of the project.
 
@@ -49,4 +49,4 @@ The submission uses external AI APIs transparently. The repository does not cont
 
 ## Testing
 
-Existing automated tests are located in [tests](/C:/Users/Welcome/Documents/nutri-coach-nova-main/tests) and cover a limited part of the Telegram bot service layer.
+Existing automated tests are located in [tests](tests) and cover a limited part of the Telegram bot service layer.
