@@ -2,9 +2,9 @@
 
 This repository is prepared as an ONIA submission package.
 
-The main working version is the Telegram bot in [src/telegram_bot](/C:/Users/Welcome/Documents/nutri-coach-nova-main/src/telegram_bot). It helps a user complete onboarding, send food text or photos, and receive practical nutrition-oriented feedback.
+The main working version is the Telegram bot in [src/telegram_bot](src/telegram_bot). It helps a user complete onboarding, send food text or photos, and receive practical nutrition-oriented feedback.
 
-The web part in [src/web_prototype](/C:/Users/Welcome/Documents/nutri-coach-nova-main/src/web_prototype) is a web interface prototype created with Lovable. It should be treated as a UI prototype and future web version concept, not as proof of a fully integrated production system.
+The web part in [src/web_prototype](src/web_prototype) is a web interface prototype created with Lovable. It should be treated as a UI prototype and future web version concept, not as proof of a fully integrated production system.
 
 The project uses external AI APIs transparently. This repository does not claim that the team trained its own large model.
 
